@@ -11,14 +11,14 @@ google_analytics:
 
 # Optional features
 animated:           true
-show_related_posts: false
+show_related_posts: true
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
-github_username:
-twitter_username:
-google_plus_id:
+show_social_icons: true
+github_username: D3f4lt
+twitter_username: DImasetyaji
+google_plus_id: 
 linkedin_username:
 bitcoin_url:
 paypal_url:
