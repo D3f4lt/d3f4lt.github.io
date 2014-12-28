@@ -7,7 +7,6 @@ categories: celotehan post
 ---
 
 ![Dimas](https://octodex.github.com/images/codercat.jpg)
-
 ## ./Me
 Hello World!!!
 
