@@ -10,7 +10,6 @@ categories: celotehan post
 Hello Dunia.
 
 ![Dimas](https://octodex.github.com/images/codercat.jpg)
-
 hmmm apa kabar? baik. Entah kenapa dengan saya ini, saya rasanya ingin menulis post tapi saya juga merasa malas hahaha... 
 yang jelas saya sedang tertarik untuk menulis post dan membuat semacam blog di github -_- 
 Tentunya banyak sekali ilmu yang ingin saya ketahui untuk menjadi web developer apalagi web design. tapi apalah saya ini. 
