@@ -34,7 +34,6 @@ dan juga bagi saya ilmu itu..
   <p> 
    "Ilmu adalah keinginan dan kemauan saya untuk menjelajahi dunia dan ilmu adalah belajar dari sebuah kesalahan."
   </p>
-  <footer><cite title="Dimas">Dimas</cite></footer>
 </blockquote>
 
 
