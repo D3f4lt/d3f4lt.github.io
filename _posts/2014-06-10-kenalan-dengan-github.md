@@ -31,13 +31,13 @@ Yang membedakan Github dari Project hosting yang lain bisa kita lihat di bawah i
 4. Github mempunyai fitur Social seperti  Twitter seperti follow atau favorit (Star).
 5. Github mendukung semua bahasa pemrograman, anda bebas memakai bahasa dan tool yang biasa anda pakai.
 
-> Untuk lebih memahami sedikit tentang github, dimisalkan kita sedang mengembangkan sebuah aplikasi web menggunakan PHP. Ketika kita sudah selesai melakukan koding maka kita menyimpannya ke dalam repository Git atau istilahnya commit. Pada langkah ini kita sudah membuat versi source code kita katakanlah versi 1 Besoknya kita melakukan perubahan pada versi 1 kita tadi dan seperti sebelumnya kita juga melakukan commit ke dalam repository, maka versi 2 akan tercipta. Lantas apakah versi 1 akan hilang? tidak. Setelah kita bekerja beberapa kali memperbaiki atau menambahkan fitur pada source code kita sampai 20 versi pun kita akan selalu bisa untuk kembali ke versi lama yang keberapapun begitu juga sebaliknya. 
+> Kemudian untuk lebih memahami sedikit tentang github, dimisalkan kita sedang mengembangkan sebuah aplikasi web menggunakan PHP. Ketika kita sudah selesai melakukan koding maka kita menyimpannya ke dalam repository Git atau istilahnya commit. Pada langkah ini kita sudah membuat versi source code kita katakanlah versi 1 Besoknya kita melakukan perubahan pada versi 1 kita tadi dan seperti sebelumnya kita juga melakukan commit ke dalam repository, maka versi 2 akan tercipta. Lantas apakah versi 1 akan hilang? tidak. Setelah kita bekerja beberapa kali memperbaiki atau menambahkan fitur pada source code kita sampai 20 versi pun kita akan selalu bisa untuk kembali ke versi lama yang keberapapun begitu juga sebaliknya. 
 Commit yang tadi kita lakukan hanya akan disimpan pada repository lokal yang ada pada komputer kita. Lantas bagaimana agar bisa diakses bersama-sama oleh anggota tim? maka kita membutuhkan sebuah repository central. Website yang menyediakan jasa repository central untuk Git adalah 'Github'. 
 
 ##### Tulisan diatas hanyalah sebuah pengenalan dan pengertiannya saja mengenai sedikit tentang github sekiranya jika ingin mengetahui lebih lanjut tentang cara kerja dan berkolaborasi seperti coding atau semacamnya di github silahkan mengunjungi 
 
-1. [Training.github.com/resources/videos](https://training.github.com/resources/videos/) 
-2. [Help.github.com](https://help.github.com/)
+* [Training.github.com/resources/videos](https://training.github.com/resources/videos/) 
+* [Help.github.com](https://help.github.com/)
 
 Mohon maaf jika terdapat kesalahan kata atau semacamnya.
 
