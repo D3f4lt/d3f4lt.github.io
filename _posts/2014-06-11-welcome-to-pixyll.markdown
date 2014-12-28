@@ -3,7 +3,7 @@ layout:     post
 title:      Hello World!!!
 date:       2014-12-20 15:31:19
 summary:    My first blog on github
-categories: post celotehan
+categories: celotehan post
 ---
 
 ## ./Me
