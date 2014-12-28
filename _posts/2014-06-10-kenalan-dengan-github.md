@@ -39,10 +39,6 @@ Commit yang tadi kita lakukan hanya akan disimpan pada repository lokal yang ada
 * [Training.github.com/resources/videos](https://training.github.com/resources/videos/) 
 * [Help.github.com](https://help.github.com/)
 
-Mohon maaf jika terdapat kesalahan kata atau semacamnya.
-
-Semoga bermanfaat, feel free~
-
 Referensi :
 
 [http://www.candra.web.id/2014/01/25/pengenalan-github-untuk-pemula](http://www.candra.web.id/2014/01/25/pengenalan-github-untuk-pemula)
@@ -50,3 +46,7 @@ Referensi :
 [http://id.wikipedia.org/wiki/GitHub](http://id.wikipedia.org/wiki/GitHub)
 
 [http://www.tutorial-webdesign.com/tutorial-git-instalasi-penggunaan-upload-proyek-ke-github](http://www.tutorial-webdesign.com/tutorial-git-instalasi-penggunaan-upload-proyek-ke-github)
+
+Mohon maaf jika terdapat kesalahan kata atau semacamnya.
+
+Semoga bermanfaat, feel free~
