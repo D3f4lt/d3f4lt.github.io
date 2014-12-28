@@ -6,10 +6,11 @@ summary:    Apa itu github? Github adalah layanan web bersama untuk proyek penge
 categories: pengetahuan post
 ---
 
+![github](https://octodex.github.com/images/octobiwan.jpg)
+
 ## Apa itu Github?
 
-![github](https://octodex.github.com/images/octobiwan.jpg)
-<span class="dark-gray">Github</span> adalah layanan web populer bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool System revisi kontrol Git. Pengertian mudahnya, <span class="bg-green white">Github adalah jejaring sosial untuk para developer dalam mengembangkan suatu proyek.</span>
+<span class="blue">Github</span> adalah layanan web populer bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool System revisi kontrol Git. Pengertian mudahnya, <span class="bg-green white">Github adalah jejaring sosial untuk para developer dalam mengembangkan suatu proyek.</span>
 
 Situs github ini menyediakan fungsionalitas jejaring sosial dan grafik jejaring sosial untuk menampilkan bagaimana para pengembang menggarap versi repositori mereka.
 
@@ -33,10 +34,10 @@ Yang membedakan Github dari Project hosting yang lain bisa kita lihat di bawah i
 > Untuk lebih memahami sedikit tentang github, dimisalkan kita sedang mengembangkan sebuah aplikasi web menggunakan PHP. Ketika kita sudah selesai melakukan koding maka kita menyimpannya ke dalam repository Git atau istilahnya commit. Pada langkah ini kita sudah membuat versi source code kita katakanlah versi 1 Besoknya kita melakukan perubahan pada versi 1 kita tadi dan seperti sebelumnya kita juga melakukan commit ke dalam repository, maka versi 2 akan tercipta. Lantas apakah versi 1 akan hilang? tidak. Setelah kita bekerja beberapa kali memperbaiki atau menambahkan fitur pada source code kita sampai 20 versi pun kita akan selalu bisa untuk kembali ke versi lama yang keberapapun begitu juga sebaliknya. 
 Commit yang tadi kita lakukan hanya akan disimpan pada repository lokal yang ada pada komputer kita. Lantas bagaimana agar bisa diakses bersama-sama oleh anggota tim? maka kita membutuhkan sebuah repository central. Website yang menyediakan jasa repository central untuk Git adalah 'Github'. 
 
-#### Tulisan diatas hanyalah sebuah pengenalan dan pengertiannya saja mengenai sedikit tentang github sekiranya jika ingin mengetahui lebih lanjut tentang cara kerja dan berkolaborasi seperti koding atau semacamnya di github silahkan mengunjungi 
+##### Tulisan diatas hanyalah sebuah pengenalan dan pengertiannya saja mengenai sedikit tentang github sekiranya jika ingin mengetahui lebih lanjut tentang cara kerja dan berkolaborasi seperti coding atau semacamnya di github silahkan mengunjungi 
 
-1. [training.github.com/resources/videos](https://training.github.com/resources/videos/) 
-2. [help.github.com](https://help.github.com/)
+1. [Training.github.com/resources/videos](https://training.github.com/resources/videos/) 
+2. [Help.github.com](https://help.github.com/)
 
 Mohon maaf jika terdapat kesalahan kata atau semacamnya.
 
