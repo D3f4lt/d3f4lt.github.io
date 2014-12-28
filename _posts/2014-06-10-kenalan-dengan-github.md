@@ -9,11 +9,11 @@ categories: pengetahuan post
 ## Apa itu Github?
 
 ![github](https://octodex.github.com/images/octobiwan.jpg)
-Github adalah layanan web populer bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool System revisi kontrol Git. Pengertian mudahnya, <span class="bg-mid-green white">Github adalah jejaring sosial untuk para developer.</span>
+<span class="gray">Github</span> adalah layanan web populer bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool System revisi kontrol Git. Pengertian mudahnya, <span class="bg-green white">Github adalah jejaring sosial untuk para developer.</span>
 
 ## Apa itu Git?
 
-GIT merupakan sebuah Version Control System (VCS) yang digunakan dalam tim pengembangan perangkat lunak untuk bekerja bersama. Version Control maksudnya sistem Git akan mencatat setiap perubahan yang terjadi pada source code kita sehingga memungkinkan untuk mengambil kembali source code lama jika suatu saat kita ingin kembali ke versi berapapun dari aplikasi yang pernah kita tulis.
+<span class="blue">GIT</span> merupakan sebuah Version Control System (VCS) yang digunakan dalam tim pengembangan perangkat lunak untuk bekerja bersama. Version Control maksudnya sistem Git akan mencatat setiap perubahan yang terjadi pada source code kita sehingga memungkinkan untuk mengambil kembali source code lama jika suatu saat kita ingin kembali ke versi berapapun dari aplikasi yang pernah kita tulis.
 
 Yang membedakan Github dari Project hosting yang lain bisa kita lihat di bawah ini
 
