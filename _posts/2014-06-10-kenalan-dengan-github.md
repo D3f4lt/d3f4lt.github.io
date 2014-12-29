@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Kenalan dengan Github
+title:      Kenalan Dengan Github
 date:       2014-06-10 12:31:19
 summary:    Apa itu github? Github adalah layanan web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool  System revisi kontrol Git.
 categories: pengetahuan post
