@@ -16,14 +16,14 @@ Tentunya banyak sekali ilmu yang ingin saya ketahui untuk menjadi web developer 
 
 Yah kok curhat ya? :v maaf jika post saya ini nggak jelas, ya abaikan saja hehe... 
 
-<span class="green">Menurut saya post di github itu rasanya cukup menarik, simpel dan pastinya beda gitu deh cobain aja hahaha...</span> 
+Menurut saya posting di github itu rasanya cukup menarik, simpel dan pastinya beda gitu deh cobain aja hahaha... 
 Sebenarnya dari dulu saya juga udah kenal sedikit github itu cuman karena sifat malas saya ini yang nggak bener hahaha... ya jadi gitu deh haha. 
-Sehubungan dengan itu saya dapat mempelajari apa itu github dan fungsinya, apa itu aplikasi, apa itu open source, apa itu markdown, apa itu repository, dan apa-apa lagi yang saya ingin ketahui. Saya memang agak sedikit kepoan haha. Ya tapi itu bagus sebenarnya untuk dikala kita ingin mencari ilmu.
+Sehubungan dengan itu saya dapat mempelajari sedikit apa itu tentang github dan fungsinya, apa itu [aplikasi](https://help.github.com/search/?q=application), apa itu [open source](https://help.github.com/search/?q=source), apa itu {markdown](https://help.github.com/search/?q=markdown), apa itu [repository](https://help.github.com/search/?q=repository), dan apa-apa lagi yang saya ingin ketahui. Saya memang agak sedikit kepoan haha. Ya tapi itu bagus sebenarnya untuk dikala kita ingin mencari ilmu.
 
 <blockquote>
   <p> 
    You learn something everyday if you pay attention. 
-   "Jika kamu perhatikan, sebenarnya kamu belajar sesuatu hal setiap hari."
+   "Jika kamu perhatikan, sebenarnya kamu belajar sesuatu hal setiap harinya."
   </p>
   <footer><cite title="Ray LeBlond">Ray LeBlond</cite></footer>
 </blockquote>
