@@ -1,17 +1,17 @@
 ---
 layout:     post
-title:      So, What is Jekyll?
+title:      Kenalan Dengan Markdown
 date:       2014-06-09 12:32:18
-summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
-categories: jekyll pixyll
+summary:    
+categories: pengetahuan post
 ---
 
-Jekyll is a tool for transforming your plain text into static websites and 
-blogs. It is simple, static, and blog-aware. Jekyll uses the 
-[Liquid](http://docs.shopify.com/themes/liquid-basics) templating
-language and has builtin [Markdown](http://daringfireball.net/projects/markdown/)
-and [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) support.
+![Maarkdown](https://octodex.github.com/images/collabocats.jpg)
+## Apa itu Markdown?
 
-It also ties in nicely to [Github Pages](https://pages.github.com/).
+Markdown merupakan gaya penulisan text-to-HTML yang digunakan untuk membuat konten tertentu pada suatu web dengan kata lain konversi penulisan format berupa plain text yang dikonversi menjadi html pada web. Dengan Markdown memungkinkan untuk membuat sebuah format html dengan sangat sederhana dan hemat. (easy-to-read dan easy-to write)
 
-Learn more about Jekyll on their [website](http://jekyllrb.com/).
+Markdown dibuat pertama kali oleh John Gruber sejak 2004 dengan bahasa Perl. Tujuan utama dari pembuatan Markdown adalah untuk mempermudah penulisan format plain text dan sebagai opsi untuk bisa mengkonversinya ke HTML dan XHTML.
+
+Pada saat ini markdown seringkali digunakan untuk membangun tampilan halaman web atau postingan blog dan semacamnya. Bahkan, situs web yang terkenal seperti GitHub, Reddit, Sackoverflow dan SourceForge sudah menggunakannya.
+
