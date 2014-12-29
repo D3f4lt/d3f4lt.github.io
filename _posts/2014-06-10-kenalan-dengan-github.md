@@ -10,7 +10,7 @@ categories: pengetahuan post
 
 ## Apa itu Github?
 
-<span class="blue">Github</span> adalah layanan web populer bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool System revisi kontrol Git. Pengertian mudahnya, <span class="bg-green white">Github adalah jejaring sosial untuk para developer dalam mengembangkan suatu proyek.</span>
+<span class="blue">Github</span> adalah layanan web populer bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool System revisi kontrol Git. Pengertian mudahnya, <span class="bg-mid-gray white">Github adalah jejaring sosial untuk para developer dalam mengembangkan suatu proyek.</span>
 
 Situs github ini menyediakan fungsionalitas jejaring sosial dan grafik jejaring sosial untuk menampilkan bagaimana para pengembang menggarap versi repositori mereka.
 
