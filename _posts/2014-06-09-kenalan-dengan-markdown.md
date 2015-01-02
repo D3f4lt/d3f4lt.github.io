@@ -17,7 +17,7 @@ Pada saat ini markdown seringkali digunakan untuk membangun tampilan halaman web
 
 ## Penulisan Markdown
 
-{% highlight markdown %}
+{% highlight ruby %}
 # Markdown
 
 **Markdown** is a text-to-HTML conversion tool for web writers. 
@@ -35,7 +35,7 @@ then convert it to structurally valid XHTML (or HTML).
 
 ## Penulisan Format HTML
 
-{% highlight html %}
+{% highlight ruby %}
 <h1>Markdown</h1>
 
 <p><strong>Markdown</strong> is a text-to-HTML conversion tool for web writers. 
