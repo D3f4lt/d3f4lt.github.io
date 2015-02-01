@@ -39,7 +39,7 @@ dan juga bagi saya ilmu itu..
 
 ## ./Follow Me
 
-Ikuti saya di twitter [@DImasetyaji](https://twtitter.com/DImasetyaji) 
+Ikuti saya di twitter [@DImasetyaji](https://twitter.com/DImasetyaji) 
 
 dan ikuti saya di github [D3f4lt (Dimas Setya Aji)](https://github.com/D3f4lt)
 
