@@ -6,8 +6,6 @@ summary:    Apa itu github? Github adalah layanan web bersama untuk proyek penge
 categories: pengetahuan post
 ---
 
-![github](https://octodex.github.com/images/octobiwan.jpg)
-
 ## Apa itu Github?
 
 <span class="blue">Github</span> adalah layanan web populer bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git atau bisa dikatakan layanan hosting untuk proyek open source yang menggunakan Tool System revisi kontrol Git. Pengertian mudahnya, <span class="bg-mid-gray white">Github adalah jejaring sosial untuk para developer dalam mengembangkan suatu proyek.</span>
