@@ -73,24 +73,24 @@ Secara pribadi, saya lihat .markdown dan .mdown sering digunakan dan sebagai pen
 Contoh penggunaan ekstensi:
 
 a. GitHub: markdown, mdown, mkdn, MKD, md [(source)](https://github.com/github/markup/blob/b865add2e053f8cea3d7f4d9dcba001bdfd78994/lib/github/markups.rb#L1)
+
 b. Elemen markdown Editor: markdown, mdown, mdwn, md
+
 c. Vim markdown: markdown, mdown, mkdn, mdwn, MKD, md
+
 d. Bitbucket: markdown, mdown, mkdn, MKD, md, teks [(source)](https://confluence.atlassian.com/display/BITBUCKET/Display+README+text+on+the+overview#DisplayREADMEtextontheoverview-Filenamingandprecedence)
 
 Jika ingin mengetahui lebih lanjut mengenai markdown dan penulisannya dapat dilihat di sini:
 
 [Help.github.com/search/?q=markdown](https://help.github.com/search/?q=markdown)
-
 [Daringfireball.net/projects/markdown](Daringfireball.net/projects/markdown)
-
-
 [Ghostforbeginners.com/basic-markdown-for-ghost-blogs](http://ghostforbeginners.com/basic-markdown-for-ghost-blogs)
 
-*Ingin menggunakan Markdown bisa ke sini:*
+Ingin menggunakan Markdown bisa ke sini:
 
 [Daringfireball.net/projects/markdown/dingus](http://daringfireball.net/projects/markdown/dingus)
 
-*Ingin melihat tools yang bisa digunakan untuk Markdown ke sini:*
+Ingin melihat tools yang bisa digunakan untuk Markdown ke sini:
 
 [Mashable.com/2013/06/24/markdown-tools](http://mashable.com/2013/06/24/markdown-tools)
 
