@@ -52,11 +52,39 @@ then convert it to structurally valid XHTML (or HTML).</p>
 
 {% endhighlight %}
 
-*Jika ingin mengetahui lebih lanjut mengenai markdown dan penulisannya dapat dilihat di sini:*
+## Extensi File Markdown
+
+Tidak ada persyaratan untuk ekstensi file markdown, seperti jawaban yang lain telah dijelaskan. Tapi agar editor atau parser untuk menjamin bahwa file yang mereka gunakan adalah format markdown, mereka akan mencari salah satu ekstensi berikut:
+
+> .markdown
+.mdown
+.mkdn
+.md
+.mkd
+.mdwn
+.mdtxt
+.mdtext
+.text
+
+Ada website seperti GitHub yang hanya menggunakan pilihan ekstensi ini untuk mengkonversi ke HTML sehingga para pengembang akan sesuai dengan standar mereka. (lihat contoh di bawah)
+
+Secara pribadi, saya lihat .markdown dan .mdown sering digunakan dan sebagai pengguna Linux saya menghindari menggunakan .md karena hal ini juga dapat menjadi file deskripsi mesin untuk mengkompilasi kode dengan GCC.
+
+Contoh penggunaan ekstensi:
+
+a. GitHub: markdown, mdown, mkdn, MKD, md [(source)](https://github.com/github/markup/blob/b865add2e053f8cea3d7f4d9dcba001bdfd78994/lib/github/markups.rb#L1)
+b. Elemen markdown Editor: markdown, mdown, mdwn, md
+c. Vim markdown: markdown, mdown, mkdn, mdwn, MKD, md
+d. Bitbucket: markdown, mdown, mkdn, MKD, md, teks [(source)](https://confluence.atlassian.com/display/BITBUCKET/Display+README+text+on+the+overview#DisplayREADMEtextontheoverview-Filenamingandprecedence)
+
+Jika ingin mengetahui lebih lanjut mengenai markdown dan penulisannya dapat dilihat di sini:
 
 [Help.github.com/search/?q=markdown](https://help.github.com/search/?q=markdown)
 
 [Daringfireball.net/projects/markdown](Daringfireball.net/projects/markdown)
+
+
+[Ghostforbeginners.com/basic-markdown-for-ghost-blogs](http://ghostforbeginners.com/basic-markdown-for-ghost-blogs)
 
 *Ingin menggunakan Markdown bisa ke sini:*
 
