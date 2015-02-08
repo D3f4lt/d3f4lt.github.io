@@ -6,7 +6,6 @@ summary:    My first post on github. Let's check this out.
 categories: celotehan post
 ---
 
-![Dimas](https://octodex.github.com/images/codercat.jpg)
 ## ./Me
 Hello World!!!
 
