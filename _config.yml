@@ -2,24 +2,16 @@
 title:       ./Learning
 email:       dimanothacker99@gmail.com
 author:      Dimas Setya Aji
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Just blogging and learn the code."
 baseurl:     ""
 url:         "http://d3f4lt.github.io"
 
-# Google analytics
 google_analytics:
-
-# Optional features
 animated:           true
 show_related_posts: true
 show_post_footers:  false
-
-# Disqus post comments
-# (leave blank to disable Disqus)
+show_social_icons:  true
 disqus_shortname: d3f4lt
-
-# Social icons
-show_social_icons: true
 github_username: D3f4lt
 stackoverflow_id:
 twitter_username: DImasetyaji
