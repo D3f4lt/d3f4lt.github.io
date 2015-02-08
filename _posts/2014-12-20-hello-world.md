@@ -31,7 +31,7 @@ dan juga bagi saya ilmu itu..
 
 <blockquote>
   <p> 
-   "Ilmu adalah keinginan dan kemauan saya untuk menjelajahi dunia dan ilmu adalah belajar dari sebuah kesalahan."
+   "Ilmu adalah keinginan dan kemauan saya untuk menjelajahi dunia dan ilmu adalah belajar dari pengalaman."
   </p>
 </blockquote>
 
