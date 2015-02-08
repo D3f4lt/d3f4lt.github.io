@@ -10,12 +10,12 @@ google_analytics:
 animated:           true
 show_related_posts: true
 show_post_footers:  false
-show_social_icons:  true
+show_social_icons:  false
 disqus_shortname: d3f4lt
 github_username: D3f4lt
 stackoverflow_id:
-twitter_username: DImasetyaji
-google_plus_id: +DimasSetyaAji
+twitter_username: 
+google_plus_id: 
 linkedin_username:
 bitcoin_url:
 paypal_url:
