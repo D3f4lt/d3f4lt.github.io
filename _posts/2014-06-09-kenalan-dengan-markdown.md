@@ -6,7 +6,6 @@ summary:    Dengan Markdown memungkinkan untuk membuat sebuah format html dengan
 categories: pengetahuan post
 ---
 
-![Maarkdown](https://octodex.github.com/images/collabocats.jpg)
 ## Apa itu Markdown? 
 
 Markdown merupakan gaya penulisan text-to-HTML yang digunakan untuk membuat konten tertentu pada suatu web dengan kata lain konversi penulisan format berupa plain text yang dikonversi menjadi html pada web. Dengan Markdown memungkinkan untuk membuat sebuah format html dengan sangat sederhana dan hemat. (easy-to-read dan easy-to write)
